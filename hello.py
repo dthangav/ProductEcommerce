@@ -3,6 +3,4 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     print(greet("GitHub Tester"))
-//new commit- system performance improved
-//can be improved
-    //changes made today--edit
+//new code for delay issue
